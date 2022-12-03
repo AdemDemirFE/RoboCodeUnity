@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b6688851576648b40892ca480381b306
+timeCreated: 1511962949
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gotham Nights
+  fontNames:
+  - Gotham Nights
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 52917356c305dbf4d8893169861c0698, type: 3}
+  - {fileID: 12800000, guid: 5a6a25c797824a54f909f316ab31c632, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
